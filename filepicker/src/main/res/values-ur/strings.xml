@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">منسوخ کریں</string>
+    <string name="choose_button_label">منتخب کریں</string>
+    <string name="label_parent_directory">والدین کی ڈائرکٹری</string>
+    <string name="last_edit">ترمیم شدہ: %s</string>
+    <string name="error_dir_access">ڈائریکٹری تک رسائی نہیں ہوسکتی ہے</string>
+</resources>

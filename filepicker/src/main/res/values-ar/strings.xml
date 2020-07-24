@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">إلغاء</string>
+    <string name="choose_button_label">اختار</string>
+    <string name="label_parent_directory">المجلد الأصل</string>
+    <string name="last_edit">المحورة: %s</string>
+    <string name="error_dir_access">لا يمكن الوصول إلى الدليل</string>
+</resources>

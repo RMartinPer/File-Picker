@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Файл Picker Додатки</string>
+    <string name="perm_granted">Дозвіл наданий</string>
+    <string name="perm_denied">Дозвіл відмовлено</string>
+    <string name="dummy_text">Фіктивний Текст</string>
+    <string name="file_text">Вибирати Файл</string>
+    <string name="folder_text">Вибирати Папку</string>
+    <string name="file_title">Виберіть файл</string>
+    <string name="folder_title">Виберіть папку</string>
+</resources>

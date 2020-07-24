@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Pemilih File</string>
+    <string name="perm_granted">Izin diberikan</string>
+    <string name="perm_denied">Izin ditolak</string>
+    <string name="dummy_text">Teks Fiktif</string>
+    <string name="file_text">Pilih File</string>
+    <string name="folder_text">Pilih Folder</string>
+    <string name="file_title">Pilih file</string>
+    <string name="folder_title">Pilih folder</string>
+</resources>

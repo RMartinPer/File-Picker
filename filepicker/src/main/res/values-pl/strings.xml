@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">Anuluj</string>
+    <string name="choose_button_label">Wybierz</string>
+    <string name="label_parent_directory">Katalog Nadrzędny</string>
+    <string name="last_edit">Zmienione: %s</string>
+    <string name="error_dir_access">Nie można uzyskać dostępu do katalogu</string>
+</resources>

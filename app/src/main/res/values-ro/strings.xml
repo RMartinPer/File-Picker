@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicație Selector Fișier</string>
+    <string name="perm_granted">Permisiune acordată</string>
+    <string name="perm_denied">Permisiune refuzată</string>
+    <string name="dummy_text">Text Fictiv</string>
+    <string name="file_text">Alegere Fișier</string>
+    <string name="folder_text">Alegere Folder</string>
+    <string name="file_title">Alegeți un fișier</string>
+    <string name="folder_title">Alegeți un folder</string>
+</resources>

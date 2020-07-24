@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">Скасувати</string>
+    <string name="choose_button_label">Вибирати</string>
+    <string name="label_parent_directory">Батьківський Каталог</string>
+    <string name="last_edit">Змінено: %s</string>
+    <string name="error_dir_access">Не вдалося отримати доступ до каталогу</string>
+</resources>

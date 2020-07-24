@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fájlválasztó Alkalmazás</string>
+    <string name="perm_granted">Engedély megadva</string>
+    <string name="perm_denied">Engedély megtagadva</string>
+    <string name="dummy_text">Kitalált Szöveg</string>
+    <string name="file_text">Válassz Fájlt</string>
+    <string name="folder_text">Válassz Mappát</string>
+    <string name="file_title">Válasszon egy fájlt</string>
+    <string name="folder_title">Válasszon egy mappát</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dateiauswahl App</string>
+    <string name="perm_granted">Erlaubnis erteilt</string>
+    <string name="perm_denied">Erlaubnis verweigert</string>
+    <string name="dummy_text">Fiktiver Text</string>
+    <string name="file_text">Datei Wählen</string>
+    <string name="folder_text">Ordner Wählen</string>
+    <string name="file_title">Wählen Sie einen Datei</string>
+    <string name="folder_title">Wählen Sie einen Ordner</string>
+</resources>

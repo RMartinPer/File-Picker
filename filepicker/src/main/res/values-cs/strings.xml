@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">Zrušit</string>
+    <string name="choose_button_label">Vybrat</string>
+    <string name="label_parent_directory">Rodičovský Adresář</string>
+    <string name="last_edit">Upraveno: %s</string>
+    <string name="error_dir_access">Do adresáře nelze přistupovat</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ফাইল পিকার অ্যাপ্লিকেশন</string>
+    <string name="perm_granted">অনুমতি মঞ্জুর</string>
+    <string name="perm_denied">অনুমতি অস্বীকৃত</string>
+    <string name="dummy_text">ডামি পাঠ্য</string>
+    <string name="file_text">ফাইল বাছুন</string>
+    <string name="folder_text">ফোল্ডার বাছুন</string>
+    <string name="file_title">একটি ফাইল বাছাই করুন</string>
+    <string name="folder_title">একটি ফোল্ডার বাছাই করুন</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Výběr Souborů App</string>
+    <string name="perm_granted">Povolení uděleno</string>
+    <string name="perm_denied">Povolení odepřeno</string>
+    <string name="dummy_text">Fiktivní Text</string>
+    <string name="file_text">Vybrat Soubor</string>
+    <string name="folder_text">Vybrat Složku</string>
+    <string name="file_title">Vyberte soubor</string>
+    <string name="folder_title">Vyberte složku</string>
+</resources>

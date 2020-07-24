@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">रद्द करें</string>
+    <string name="choose_button_label">चुनना</string>
+    <string name="label_parent_directory">जनक निर्देशिका</string>
+    <string name="last_edit">संशोधित: %s</string>
+    <string name="error_dir_access">निर्देशिका तक पहुँचा नहीं जा सकता</string>
+</resources>

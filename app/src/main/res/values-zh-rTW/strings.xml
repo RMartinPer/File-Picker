@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">文件選擇器的應用</string>
+    <string name="perm_granted">授予權限</string>
+    <string name="perm_denied">拒絕權限</string>
+    <string name="dummy_text">虛構文字</string>
+    <string name="file_text">選擇文件</string>
+    <string name="folder_text">選擇文件夾</string>
+    <string name="file_title">選擇一個文件</string>
+    <string name="folder_title">選擇一個文件夾</string>
+</resources>

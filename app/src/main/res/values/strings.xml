@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">File Picker App</string>
+    <string name="perm_granted">Permission granted</string>
+    <string name="perm_denied">Permission denied</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="file_text">Pick File</string>
+    <string name="folder_text">Pick Folder</string>
+    <string name="file_title">Pick a file</string>
+    <string name="folder_title">Pick a folder</string>
+</resources>

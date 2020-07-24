@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arquivo Selector App</string>
+    <string name="perm_granted">Permissão concedida</string>
+    <string name="perm_denied">Permissão negada</string>
+    <string name="dummy_text">Texto Fictício</string>
+    <string name="file_text">Escolher Arquivo</string>
+    <string name="folder_text">Escolher Pasta</string>
+    <string name="file_title">Escolha um arquivo</string>
+    <string name="folder_title">Escolha uma pasta</string>
+</resources>

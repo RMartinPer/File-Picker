@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">Avbryt</string>
+    <string name="choose_button_label">Välja</string>
+    <string name="label_parent_directory">Överordnad Katalog</string>
+    <string name="last_edit">Ändrad: %s</string>
+    <string name="error_dir_access">Katalogen kan inte nås</string>
+</resources>

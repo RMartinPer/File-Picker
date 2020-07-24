@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Picker de Fitxers</string>
+    <string name="perm_granted">Permís atorgat</string>
+    <string name="perm_denied">Permís denegat</string>
+    <string name="dummy_text">Text Fictici</string>
+    <string name="file_text">Triar Arxiu</string>
+    <string name="folder_text">Triar Carpeta</string>
+    <string name="file_title">Tria un arxiu</string>
+    <string name="folder_title">Tria una carpeta</string>
+</resources>

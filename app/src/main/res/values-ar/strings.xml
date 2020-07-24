@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق منتقي الملفات</string>
+    <string name="perm_granted">تم منح الإذن</string>
+    <string name="perm_denied">تم رفض الإذن</string>
+    <string name="dummy_text">نص وهمي</string>
+    <string name="file_text">أخذ الملف</string>
+    <string name="folder_text">أخذ مجلد</string>
+    <string name="file_title">خذ ملفًا</string>
+    <string name="folder_title">خذ مجلدًا</string>
+</resources>

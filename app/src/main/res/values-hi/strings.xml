@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">फ़ाइल पिकर ऐप</string>
+    <string name="perm_granted">अनुमति प्रदान की गई</string>
+    <string name="perm_denied">अनुमति नहीं मिली</string>
+    <string name="dummy_text">अभ्यास पाठ</string>
+    <string name="file_text">फ़ाइल का चयन</string>
+    <string name="folder_text">फ़ोल्डर का चयन</string>
+    <string name="file_title">एक फ़ाइल चुनें</string>
+    <string name="folder_title">एक फ़ोल्डर चुनें</string>
+</resources>

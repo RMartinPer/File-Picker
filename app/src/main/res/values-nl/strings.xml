@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Bestandskiezer</string>
+    <string name="perm_granted">Toestemming verleend</string>
+    <string name="perm_denied">Toestemming geweigerd</string>
+    <string name="dummy_text">Fictieve Tekst</string>
+    <string name="file_text">Kies Bestand</string>
+    <string name="folder_text">Kies Map</string>
+    <string name="file_title">Kies een bestand</string>
+    <string name="folder_title">Kies een map</string>
+</resources>

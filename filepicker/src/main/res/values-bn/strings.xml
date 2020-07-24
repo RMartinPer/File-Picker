@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">বাতিল করতে</string>
+    <string name="choose_button_label">নির্বাচন করুন</string>
+    <string name="label_parent_directory">পেরেন্ট ডাইরেক্টরি</string>
+    <string name="last_edit">পরিবর্তিত: %s</string>
+    <string name="error_dir_access">ডিরেক্টরি অ্যাক্সেস করা যাবে না</string>
+</resources>

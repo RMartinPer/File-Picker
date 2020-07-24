@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فائل چننے والا ایپ</string>
+    <string name="perm_granted">اجازت دی گئی</string>
+    <string name="perm_denied">اجازت نہیں دی گئی</string>
+    <string name="dummy_text">ڈمی متن</string>
+    <string name="file_text">مسل چنیں</string>
+    <string name="folder_text">پوشہ چنیں</string>
+    <string name="file_title">ایک مسل چنیں</string>
+    <string name="folder_title">ایک پوشہ چنیں</string>
+</resources>

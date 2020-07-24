@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Picker Fichier App</string>
+    <string name="perm_granted">Permission accordée</string>
+    <string name="perm_denied">Permission refusée</string>
+    <string name="dummy_text">Texte Factice</string>
+    <string name="file_text">Choisir Fichier</string>
+    <string name="folder_text">Choisir Dossier</string>
+    <string name="file_title">Choisissez un fichier</string>
+    <string name="folder_title">Choisissez un dossier</string>
+</resources>

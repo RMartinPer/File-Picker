@@ -1,0 +1,48 @@
+apply plugin: 'maven-publish'
+
+def LIB_GROUP_ID = 'com.rmartinper'
+def LIB_ARTIFACT_ID = 'filepicker'
+def LIB_VERSION = '1.0'
+
+task sourceJar(type: Jar) {
+    from android.sourceSets.main.java.srcDirs
+    classifier "sources"
+}
+
+publishing {
+    repositories {
+        maven {
+            name = "GithubPackages"
+            url = uri("https://maven.pkg.github.com/Ru95Gasol/File-Picker")
+            credentials {
+                username = System.getenv('GITHUB_USER') ?: "Ru95Gasol"
+                password = System.getenv('GITHUB_PERSONAL_ACCESS_TOKEN') ?: "c8eed7289b73b506e574ee2f090e2a908773e4d3"
+            }
+        }
+        maven {
+            name = 'CustomMavenRepo'
+            url = "file://${buildDir}/repo"
+        }
+    }
+    publications {
+        filepicker(MavenPublication) {
+            groupId LIB_GROUP_ID
+            artifactId LIB_ARTIFACT_ID
+            version LIB_VERSION
+            artifact("$buildDir/outputs/aar/filepicker-release.aar")
+            artifact(sourceJar)
+
+            pom.withXml {
+                def dependenciesNode = asNode().appendNode('dependencies')
+
+                //Iterate over the compile dependencies (we don't want the test ones), adding a <dependency> node for each
+                configurations.api.allDependencies.each {
+                    def dependencyNode = dependenciesNode.appendNode('dependency')
+                    dependencyNode.appendNode('groupId', it.group)
+                    dependencyNode.appendNode('artifactId', it.name)
+                    dependencyNode.appendNode('version', it.version)
+                }
+            }
+        }
+    }
+}

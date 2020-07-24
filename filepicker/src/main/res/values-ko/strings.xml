@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">취소</string>
+    <string name="choose_button_label">선택</string>
+    <string name="label_parent_directory">부모 디렉토리</string>
+    <string name="last_edit">수정: %s</string>
+    <string name="error_dir_access">디렉터리액세스할 수 없습니다</string>
+</resources>

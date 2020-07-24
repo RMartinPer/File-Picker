@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">Annuler</string>
+    <string name="choose_button_label">Sélectionner</string>
+    <string name="label_parent_directory">Répertoire Parent</string>
+    <string name="last_edit">Modifié: %s</string>
+    <string name="error_dir_access">Le répertoire ne peut pas être consulté</string>
+</resources>

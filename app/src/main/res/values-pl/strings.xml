@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Selektora Plików</string>
+    <string name="perm_granted">Zezwolenie udzielone</string>
+    <string name="perm_denied">Odmowa zezwolenia</string>
+    <string name="dummy_text">Atrapa Tekstu</string>
+    <string name="file_text">Wybierz Plik</string>
+    <string name="folder_text">Wybierz Folder</string>
+    <string name="file_title">Wybieranie pliku</string>
+    <string name="folder_title">Wybieranie folderu</string>
+</resources>

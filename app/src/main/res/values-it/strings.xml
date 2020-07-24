@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App di Selettore File</string>
+    <string name="perm_granted">Permesso accordato</string>
+    <string name="perm_denied">Permesso negato</string>
+    <string name="dummy_text">Testo Fittizio</string>
+    <string name="file_text">Scegli File</string>
+    <string name="folder_text">Scegli Cartella</string>
+    <string name="file_title">Scegli un file</string>
+    <string name="folder_title">Scegli una cartella</string>
+</resources>

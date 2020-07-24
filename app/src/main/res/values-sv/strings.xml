@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filväljaren App</string>
+    <string name="perm_granted">Tillstånd beviljat</string>
+    <string name="perm_denied">Tillåtelse nekad</string>
+    <string name="dummy_text">Fiktiv Text</string>
+    <string name="file_text">Välj Fil</string>
+    <string name="folder_text">Välj Mapp</string>
+    <string name="file_title">Välj en fil</string>
+    <string name="folder_title">Välj en mapp</string>
+</resources>

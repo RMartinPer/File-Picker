@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dosya Seçici App</string>
+    <string name="perm_granted">İzin verildi</string>
+    <string name="perm_denied">İzin reddedildi</string>
+    <string name="dummy_text">Kukla Metin</string>
+    <string name="file_text">Dosya Seç</string>
+    <string name="folder_text">Klasör Seç</string>
+    <string name="file_title">Dosya seçin</string>
+    <string name="folder_title">Klasör seçme</string>
+</resources>

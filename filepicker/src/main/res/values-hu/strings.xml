@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button_label">Mégse</string>
+    <string name="choose_button_label">Kijelöl</string>
+    <string name="label_parent_directory">Szülő Könyvtára</string>
+    <string name="last_edit">Módosítva: %s</string>
+    <string name="error_dir_access">Nem lehet elérni a könyvtárat</string>
+</resources>
